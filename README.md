@@ -205,7 +205,8 @@ N'oublie pas de "pusher" la migration: $ rails db:migrate !!!!
 				)
 		end
 
-### Afin d'activer le seeds.rb: $ rails db:seed
+### $ rails db:seed
+==> Afin d'activer le seeds.rb
 
 ## ATTENTION: PENSE À CHANGER TON seeds.rb ET FAIRE UN $ rails db:seed A CHAQUE CHANGEMENT DANS TES TABLES!!!!
 ## FAIS UN MAX DE TESTS EN CONSOLE APRÈS CRÉATION DE TES TABLES HISTOIRE DE NE PAS ÊTRE SURPRIS PAR LA SUITE!!!!
